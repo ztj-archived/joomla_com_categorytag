@@ -6,7 +6,7 @@
 
 
 ##相关地址
-软件有任何疑问或者升级需求可提出：http://bbs.phpsj.com/thread-257-1-1.html
+软件有任何疑问或者升级需求可提出：http://bbs.phpsj.com/thread-257-1-1.html<br>
 最新版下载：http://bbs.phpsj.com/thread-257-1-1.html
 
 
