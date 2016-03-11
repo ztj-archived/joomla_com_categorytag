@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.2.0" method="upgrade">
+  <name>com_categorytag</name>
+  <version>1.0</version>
+  <creationDate>2016-03-01</creationDate>
+  <author>ZhangTianjie</author>
+  <authorEmail>807261773@qq.com</authorEmail>
+  <authorUrl>http://www.phpsj.com</authorUrl>
+  <copyright>Phpsj.com All rights reserved.</copyright>
+  <license>GNU General Public License version 2 or later</license>
+  <description>COM_CATEGORYTAG_DESCRIPTION</description>
+  <files folder="site">
+    <filename>categorytag.php</filename>
+    <filename>controller.php</filename>
+    <folder>language</folder>
+    <folder>views</folder>
+    <folder>models</folder>
+  </files>
+  <administration>
+    <files folder="admin">
+      <folder>language</folder>
+    </files>
+  </administration>
+</extension>
